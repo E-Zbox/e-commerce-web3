@@ -1,5 +1,5 @@
 {
-    "name": "vote-proposal",
+    "name": "e-commerce-web3",
     "version": "1.0.0",
     "description": "A blockchain solution for a task management system that includes task assignments, voting system for tasks to be prioritized and an escrow system to lock funds until task gets completed",
     "main": "index.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/E-Zbox/vote-proposal.git"
+        "url": "git+https://github.com/E-Zbox/e-commerce-web3.git"
     },
     "keywords": [
         "smart-contract",
@@ -19,9 +19,9 @@
     "author": "Ononogbu Ebenezer",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/E-Zbox/vote-proposal/issues"
+        "url": "https://github.com/E-Zbox/e-commerce-web3/issues"
     },
-    "homepage": "https://github.com/E-Zbox/vote-proposal#readme",
+    "homepage": "https://github.com/E-Zbox/e-commerce-web3#readme",
     "devDependencies": {
         "@nomicfoundation/hardhat-chai-matchers": "^2.0.2",
         "@nomicfoundation/hardhat-ethers": "^3.0.5",
