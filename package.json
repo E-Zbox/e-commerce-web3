@@ -1,0 +1,47 @@
+{
+    "name": "vote-proposal",
+    "version": "1.0.0",
+    "description": "A blockchain solution for a task management system that includes task assignments, voting system for tasks to be prioritized and an escrow system to lock funds until task gets completed",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/E-Zbox/vote-proposal.git"
+    },
+    "keywords": [
+        "smart-contract",
+        "web3",
+        "task",
+        "task-management"
+    ],
+    "author": "Ononogbu Ebenezer",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/E-Zbox/vote-proposal/issues"
+    },
+    "homepage": "https://github.com/E-Zbox/vote-proposal#readme",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-chai-matchers": "^2.0.2",
+        "@nomicfoundation/hardhat-ethers": "^3.0.5",
+        "@nomicfoundation/hardhat-network-helpers": "^1.0.9",
+        "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+        "@nomicfoundation/hardhat-verify": "^2.0.1",
+        "@typechain/ethers-v6": "^0.5.1",
+        "@typechain/hardhat": "^9.1.0",
+        "@types/chai": "^4.3.11",
+        "@types/mocha": "^10.0.6",
+        "chai": "^4.3.10",
+        "hardhat": "^2.19.1",
+        "hardhat-gas-reporter": "^1.0.9",
+        "solidity-coverage": "^0.8.5",
+        "ts-node": "^10.9.1",
+        "typechain": "^8.3.2",
+        "typescript": "^5.3.2"
+    },
+    "dependencies": {
+        "dotenv": "^16.3.1",
+        "ethers": "^6.8.1"
+    }
+}
