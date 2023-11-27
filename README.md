@@ -40,10 +40,14 @@ As depicted from [Etherscan](https://sepolia.etherscan.io/)
     <p>Verify & Publish</p>
 </div>
 
+---
+
 <div align="center">
     <img src="./screenshots/verify-and-publish-contract-source-code.png" alt="verify-and-publish-contract-sc-form">
     <p>Verify & Publish Form</p>
 </div>
+
+---
 
 <div align="center">
     <img src="./screenshots/view-verified-contract-source-code.png" alt="view-verified-contract">
