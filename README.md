@@ -37,19 +37,19 @@ As depicted from [Etherscan](https://sepolia.etherscan.io/)
 
 <div align="center">
     <img src="./screenshots/verify-and-publish.png" alt="verify-and-publish">
-    <p>Verify & Publish</p>
+    <p>❔ <b>Verify & Publish</b></p>
 </div>
 
 ---
 
 <div align="center">
     <img src="./screenshots/verify-and-publish-contract-source-code.png" alt="verify-and-publish-contract-sc-form">
-    <p>Verify & Publish Form</p>
+    <p>📜 <b>Verify & Publish Form</b></p>
 </div>
 
 ---
 
 <div align="center">
     <img src="./screenshots/view-verified-contract-source-code.png" alt="view-verified-contract">
-    <p>Verified Contract</p>
+    <p>✅ <b>Verified Contract</b></p>
 </div>
