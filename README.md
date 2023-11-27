@@ -26,23 +26,26 @@ Navigate to [create Products script](./populate/createProducts.js) and append mo
 
 ## Subgraphs
 
--   [ECommerce](https://)
--   [UserRegistry](https://)
+-   [x] [ECommerce Playground](https://thegraph.com/studio/subgraph/ecommerce/playground/).
+-   [x] [ECommerce Subgraph Repository](https://)
+-   [x] [UserRegistry](https://thegraph.com/studio/subgraph/ecommerce-user-registry/playground/).
+-   [x] [UserRegistry Subgraph Repository](https://)
 
 ## Verification of Contract code
 
 As depicted from [Etherscan](https://sepolia.etherscan.io/)
 
-![verify-and-publish](./screenshots/verify-and-publish.png)
-
-<div id="center">
+<div align="center">
+    <img src="./screenshots/verify-and-publish.png" alt="verify-and-publish">
     <p>Verify & Publish</p>
 </div>
 
-![verify-and-publish-contract-sc-form](./screenshots/verify-and-publish-contract-source-code.png)
-
-<div id="center">
+<div align="center">
+    <img src="./screenshots/verify-and-publish-contract-source-code.png" alt="verify-and-publish-contract-sc-form">
     <p>Verify & Publish Form</p>
 </div>
 
-![view-verified-contract](./screenshots/view-verified-contract-source-code.png)
+<div align="center">
+    <img src="./screenshots/view-verified-contract-source-code.png" alt="view-verified-contract">
+    <p>Verified Contract</p>
+</div>
