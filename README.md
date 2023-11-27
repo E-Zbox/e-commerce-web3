@@ -26,10 +26,10 @@ Navigate to [create Products script](./populate/createProducts.js) and append mo
 
 ## Subgraphs
 
--   [x] [ECommerce Playground](https://thegraph.com/studio/subgraph/ecommerce/playground/).
--   [x] [ECommerce Subgraph Repository](https://)
--   [x] [UserRegistry](https://thegraph.com/studio/subgraph/ecommerce-user-registry/playground/).
--   [x] [UserRegistry Subgraph Repository](https://)
+-   [x] [ECommerce Playground](https://thegraph.com/studio/subgraph/ecommerce/playground/)
+-   [x] [ECommerce Subgraph Repository](https://github.com/E-Zbox/e-commerce-web3-subgraph)
+-   [x] [UserRegistry](https://thegraph.com/studio/subgraph/ecommerce-user-registry/playground/)
+-   [x] [UserRegistry Subgraph Repository](https://github.com/E-Zbox/e-commerce-web3-subgraph)
 
 ## Verification of Contract code
 
