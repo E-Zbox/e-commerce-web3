@@ -1,8 +1,0 @@
-type UserAuthorized @entity(immutable: true) {
-  id: Bytes!
-  user: Bytes! # address
-  role: Int! # uint8
-  blockNumber: BigInt!
-  blockTimestamp: BigInt!
-  transactionHash: Bytes!
-}
